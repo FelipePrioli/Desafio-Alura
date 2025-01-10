@@ -9,7 +9,7 @@ export default function Login() {
           <div className="bg-[#ADD8E6] bg-opacity-30 p-4 rounded-full mb-4">
             <Medal className="w-12 h-12 text-[#ADD8E6]" />
           </div>
-          <h1 className="text-2xl font-bold text-gray-900">Motoristas Show</h1>
+          <h1 className="text-2xl font-bold text-gray-900">Motorista Show</h1>
           <p className="mt-2 text-gray-600 text-center">
             Sistema de Gerenciamento de Frota
           </p>

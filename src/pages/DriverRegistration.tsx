@@ -56,7 +56,7 @@ export default function DriverRegistration() {
         <div className="p-6">
           <div className="flex justify-between items-center mb-6">
             <div>
-              <h1 className="text-2xl font-bold text-gray-900">Motoristas</h1>
+              <h1 className="text-2xl font-bold text-gray-900">Motorista</h1>
               <p className="mt-1 text-sm text-gray-600">
                 Gerenciamento de motoristas do sistema
               </p>
